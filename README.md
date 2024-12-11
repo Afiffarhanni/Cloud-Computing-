@@ -2,7 +2,7 @@
   <img src="images/Logo.jpg" alt="Konva logo" height="180" />
 </p>
 
-# FruitGuard
+<h1 align="center">FruitGuard</h1>
 Fruit Guard is an innovative web application that allows users to predict the condition of fruits by uploading images of the fruit. Currently, the application is still in development, but the initial features that are available include:
 
 1. Predicting fruit conditions.
