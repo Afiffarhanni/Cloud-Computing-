@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "apk-scan-buah",
+  "private_key_id": "9013695ecf45cb405030b3ec19c9f5b95232d689",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAqRG0DVgrsMtT\nWacJOc/lVPHqH9a7pTuD5gjxsEHQxhhlbsNHUZMO8uqSgN3ehmfPFMMyix3XRxuC\nB3tokI+SPlBMBf+F9nBxQptNGGP9CwLftJImO3XN+1XdwaozxZi79Ee4GUSnGWb6\ngOYaGBPYZ0Oh5JNtPmIPMFn5GtmLyHSKxo9sDuVG2gQyfQQZu4+eyqSGCAOBWwEs\nU6fptgRRktVcNWksqoL9C/RHODlBmKigg0s0zAhGhVTloB+88zEXuLNnuwhG/aFB\n7sLMB6g3l1gJPKwYb+woAOeAAQr8afs0MYKJj3NdFKngJvTOhvGHJK5Kx2pOPD98\n6oTiBXDbAgMBAAECggEAIuJaEMJ7zQlpf3GTw6FiqdEsLmrObFKaSKMtymlSOXWs\n9CzOkgrMuF+2polL4x9uC3pkb7Ht2M2Ixw4Iw+GtBVtgGavaXQzGxlM7oIWCkU5d\nmljtP5vzlDTmks0evtoP8jRkigqVOjZoxYHyaBYk/cGQ5u7m3Nh3U+261NaOPndg\nCTzyBovbGebUtBLdH39epQMSD/qTnKxKSBXVBOLZe+pxrPeNjWr+Dr3T5z0stLQs\n//ZIJZk+8zFL7Sxyp4zqrilt04BQ2ltnNL+O77J2Gr29to/fR77K3IUN0/jne0nD\nBPRYhZ4wA5RxqWtxe42frGwsCj1IIamd15WrfTfQQQKBgQD0sPMR+X+9B8XOOZiq\nqYX6invzWu2t2G0vrwxRtLsxOg5H7s/WQTumDHIFPp2NH27fqNYHj3wb7Il93jVz\npDyIT7ydFQZifNCi+qClxpoZ/evZ7Tw9M20G/A2ONY7jkoaxxb3qiIs+IncHw7so\nULzIx8AGG94CbW+j1fp1fFV+GwKBgQDJkIU0mvU06klSdj4OzvAfuRGxHQX05eh6\n2oFgp48A+8EjojQQC68ptBnyYEQI+hfis5XVT75ufnV9S5oYGn3lFndV/48XcfT0\nhizHUMvusmXKRz5c45uDctIhDzCSb07rnXk5lAjBzkwEHyMWhTVn96Ce8ORqEasV\nPC6LtIgEQQKBgBQ2wf3MJLdS+w5MR8ZhdsX5xr+V1Wi1Jl/4EAZ37bblWuSqX9UN\nUoYnJQw13gIYhKpJYlUBj3knEzyorLW+7Zk9LRG0+PAN65ZrKfZH79cR2PgJ1x4f\nL3SSQfRrjEBUjHgHI+dKHGanpjmn+8Aa212i0sQubSq6K6zXMneeK9ndAoGAVzSB\njQrlv6kFY/noS3vYg8EMGHaYFyZI+K4Ef46+3gwNuZ75q1+CvyY+e5COntuk7d4I\nmytPFnr71eOZnYgIo86efsR8YgZZlllekjUwperlAyjjoEiRBcPtiYQK3a/ukx2k\nTvbu+vqIBNh708h6HKsUAO/zwrg2Lo/FC4hluIECgYEA2w+s33xK6SHFhN9rLIvO\nFd3ItUAPsYJ4nUJ5/XkSCb39jyxf+K2W5E3WNQps2S9oXnpRRNh4OrEQarwTLQXv\nyFzfPvCn/l4BYuq+AgrTRIawN4lSN70p1tB8AAXC+G9BH8uxSHA+E3XOvDH2RzXz\n/NgZedOF3+d0bvAAvCWm4ls=\n-----END PRIVATE KEY-----\n",
+  "client_email": "afif-diaz@apk-scan-buah.iam.gserviceaccount.com",
+  "client_id": "107950245558412511950",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/afif-diaz%40apk-scan-buah.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
