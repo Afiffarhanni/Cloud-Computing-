@@ -1,4 +1,7 @@
-![Logo](images/Logo.jpg)
+<div align="center">
+  <img src="images/Logo.jpg" alt="Logo">
+</div>
+
 # FruitGuard
 Fruit Guard is an innovative web application that allows users to predict the condition of fruits by uploading images of the fruit. Currently, the application is still in development, but the initial features that are available include:
 
